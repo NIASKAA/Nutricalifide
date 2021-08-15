@@ -23,6 +23,9 @@ Add badges from somewhere like:
 
 Link to Website: https://niaskaa.github.io/Nutricalifide/
 
+##Installation
+First clone this repo to your PC and run it with live servers in VS Code
+
 ## Authors
 
 - [@NIASKA / Alan](https://github.com/NIASKAA)
